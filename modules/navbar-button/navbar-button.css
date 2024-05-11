@@ -1,0 +1,61 @@
+.navbar-button{
+    width: 33.3%;
+    height: 100%;
+    float: left;
+    font-size: 1.2em;
+   
+    height: 50px;
+    color: #ddd;
+    overflow: hidden;
+}   
+.navbar-notification-button{
+    width: 38.3%;
+   
+}   
+.navbar-home-button{
+    width: 27.3%;
+   
+}   
+.navbar-message-button{
+    width: 34.3%;
+   
+}  
+
+.icon{
+    margin-top: 15px;
+    margin-left: 10px;
+    float: left;
+    width: 30px;
+    height: 30px;
+   
+    background-image: url('/assest/notifications.png');
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.button-text{
+    font-size: 0.6em;
+    font-weight: 700;
+    color: #333;
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    float: left;
+    height: 30px;
+    line-height: 29px;
+
+}
+.icon-message{
+
+    background-image: url('/assest/home.png');
+}
+.icon-notifiaction{
+    background-image: url('/assest/notifications_24dp_FILL0_wght400_GRAD0_opsz24.png');
+
+}
+.icon-home{
+    background-image: url('/assest/message.png');
+}

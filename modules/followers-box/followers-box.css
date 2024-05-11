@@ -1,0 +1,113 @@
+.followers-box{
+    height: 220px;
+    background-color: white;
+    width: auto;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.followers-box-banner{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 45%;
+    background-color:white;
+    display: block; 
+    width: auto;
+
+}
+
+.followers-box-user-info-wrapper{
+    height: 60%;
+    margin-top: 0px;
+    width: auto;  
+    background-color: white;  
+}
+
+.followers-box-user-icon-wrapper{
+    height: 50%;
+    display: block;
+    width: auto;
+    background-color:white;
+    margin-top: -1px;
+}
+.followers-box-user-icon{
+    height: 60px;
+    width: 60px;
+    float: left;
+    border-radius: 40px;
+    background-color: rgb(223, 236, 36);
+    display: block;
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-bottom: -1px;
+    border: 2px solid #2598ff;
+    
+}
+.profile-img {
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+}
+.followers-box-user-name{
+    height: 100%;
+    width: auto;
+    margin-top: 0%;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    /* text-align: center; */
+    line-height: 5px;
+    
+}
+.followers-box-user-name p {
+    padding: 0px;
+    margin: 0pxs;
+}
+
+.followers-box-user-name p.user-text-name{
+    font-size: 1.2em;
+    font-weight: 800;
+} 
+.followers-box-user-name p.user-name{
+    font-size: 0.8em;
+    font-weight: 200;
+   
+}
+
+
+.followers-box-toolbar{
+    height: 50%;
+    width: auto;
+    display: block;
+    padding: 0 10px 0 10px;
+    margin-bottom: 10px;
+
+}
+
+.followers-box-toolbar-col1,
+.followers-box-toolbar-col2,
+.followers-box-toolbar-col3{
+    width: 33.3%;
+    height: 60px;
+    float: left;
+    margin-top: 5px;
+    /* background-color: red ; */
+}
+
+.toolbar-text{
+    font-size: 0.7em;
+    color: #323642;
+    font-weight: 600;
+    display: block;
+}
+
+.toolbar-count{
+    display: block;
+    font-size: 1.1em;
+    margin: 5px 0 5px 10px;
+    color: #2598ff;
+    font-weight: 600;
+}
+
+
